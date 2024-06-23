@@ -619,6 +619,10 @@ html, body {
     width: 1em;
     margin-right: 0.8rem;
   }
+  .header-list__icon {
+    position: relative;
+    margin-bottom: -0.5rem;
+  }
   .c-list__link {
     background: transparent;
     display: flex;
