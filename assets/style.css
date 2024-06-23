@@ -534,6 +534,11 @@ html, body {
     position: relative;
     top: 7.5rem;
   }
+  @media (max-width: 700px) {
+    .l-header__content {
+      top: 11rem;
+    }
+  }
   .l-header__text {
     display: flex;
     align-items: center;
